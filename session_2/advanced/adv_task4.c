@@ -2,7 +2,7 @@
 
 /* Advanced task 4
  * Simulate an image processing filter. Given a 2D grid of pixel values,
- * use two for loops to increase the brightness of every pixel by 10, 
+ * use two for loops to increase the brightness of every pixel by 20, 
  * but use only pointers to access and modify the data. If the new values
  * exceeds 255, it must be set to exactly 255.
  */
@@ -24,4 +24,5 @@ int main(void){
 	int (*row_ptr)[4] = image; 
 	
 	return 0;
+
 }
