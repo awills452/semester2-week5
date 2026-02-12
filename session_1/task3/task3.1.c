@@ -37,7 +37,7 @@
  * Output:
  * Customer type: Domestic
  * Units consumed: 250
- * Total bill amount: 875.00
+ * Total bill amount: 725.00
  *
  */
  
