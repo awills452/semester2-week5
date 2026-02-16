@@ -15,5 +15,6 @@ int main( void ) {
         buffer[strcspn(buffer,"\n")] = '\0';
         printf("Read: %s\n",buffer);
     }
+    
     return 0;
 }
